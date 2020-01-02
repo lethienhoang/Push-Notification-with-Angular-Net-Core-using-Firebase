@@ -39,3 +39,17 @@ Then, go back to the dashboard and go to the project settings by following the m
 
 The information that we need is in the Cloud Messaging page. We are going to use that information while sending and receiving notifications.
 
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="/__/firebase/7.6.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="/__/firebase/7.6.1/firebase-analytics.js"></script>
+
+<!-- Initialize Firebase -->
+<script src="/__/firebase/init.js"></script>
+
+## Install Firebase CLI
+
+npm install -g firebase-tools
