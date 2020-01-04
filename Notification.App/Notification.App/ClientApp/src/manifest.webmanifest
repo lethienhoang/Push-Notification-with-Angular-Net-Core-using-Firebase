@@ -1,1 +1,10 @@
-﻿
+{
+  "name": "Notification.Firebase",
+  "short_name": "Notification.App",
+  "theme_color": "#1976d2",
+  "background_color": "#fafafa",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "messagingSenderId": "455760488717"
+}
